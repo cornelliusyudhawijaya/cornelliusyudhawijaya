@@ -7,7 +7,8 @@
 - 💬 Connect with me at:
   - 👍 [Linkedin](https://www.linkedin.com/in/cornellius-yudha-wijaya/)
   - 💻 [Twitter](https://twitter.com/CornelliusYW) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/cornelliusyudhawijaya/github-readme-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cornelliusyudhawijaya)](https://github.com/cornelliusyudhawijaya/github-readme-stats)
 
 <!--
 **cornelliusyudhawijaya/cornelliusyudhawijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
